@@ -6,12 +6,7 @@
 - 🌱 Estudando Back END
 - <img width="16" height="16" alt="image" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />  Focando em Python
 ## GitHub Stats
-<a href="https://github.com/Matheus-cpu22/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Matheus-cpu22&show_icons=true&theme=highcontrast" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-cpu22&layout=compact&langs_count=8&card_width=320" />
-</a>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
